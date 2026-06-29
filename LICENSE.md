@@ -1,4 +1,4 @@
-# 
+# Advanced DaVinci Resolve extensions for Mac OS | Official DaVinci Resolve extensions for PC Windows. Featuring keyframe-animation and MIDI-editing — optimized for maximum performance on every platform.
 
 
 
